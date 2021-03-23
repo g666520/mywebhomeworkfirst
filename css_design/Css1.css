@@ -1,0 +1,12 @@
+body{
+    background: #9bcbf1;
+}
+h1{
+    text-align: center;
+}
+.phone {
+   float: right;
+}
+.confidence{
+    float: right;
+}

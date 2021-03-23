@@ -1,0 +1,18 @@
+body {
+    background-color: #f1d3fa;
+    font-family: "Microsoft Yahei", "SimHei";
+    text-align: center;
+}
+
+h1 {
+    font-family: "Microsoft Yahei", "SimHei";
+    text-align: center;
+}
+
+.LetLeft {
+    float: left;
+}
+
+.LetRight {
+    float: right;
+}
